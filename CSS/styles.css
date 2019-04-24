@@ -1,0 +1,67 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f9fafc;
+    margin: 20px;
+    
+}
+.company__name {
+    display: inline;
+}
+
+header {
+    position: relative;
+    margin-top: 20px;
+}
+
+nav {
+    display: inline;
+    position: absolute;
+    left: 75%;
+    top: 10%;
+    transform: translateY(-10%);
+    list-style: none;
+    
+}
+
+a {
+    color: #69696a;
+    text-decoration: none;
+    padding: 2px;
+}
+nav span {
+    color: #f9fafc;
+    background-color: #000;
+    padding: 5px;
+    border-radius: 12px;
+
+}
+
+
+h1 {
+    color: #000;
+}
+
+.vr {
+    width:2px;
+    background-color:#69696a;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:25px;
+}
+
+p {
+    color: #69696a;
+}
+
+.p2 {
+    position: relative;
+    left: 50%;
+    display: block;
+    color: #f9fafc;
+    background-color: #000;
+    padding: 5px;
+    border-radius: 12px;
+    width: 100px;
+}
+
